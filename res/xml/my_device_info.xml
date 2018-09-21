@@ -114,6 +114,14 @@
         settings:keywords="@string/keywords_android_version"
         android:summary="@string/summary_placeholder"/>
 
+    <!-- ColtOS Details -->
+    <Preference
+        android:key="colt_version"
+        android:order="33"
+        android:title="@string/colt_version"
+        settings:keywords="@string/keywords_colt_version"
+        android:summary="@string/colt_summary"/>
+
     <!--IP address -->
     <Preference
         android:key="wifi_ip_address"

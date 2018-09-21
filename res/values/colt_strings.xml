@@ -345,6 +345,16 @@
     <string name="app_ops_bluetooth_scan">bluetooth scan</string>
     <string name="app_ops_boot_completed">auto start</string>
 
+    <!-- ColtOS Details -->
+    <string name="colt_version_dish">Version Name</string>
+    <string name="colt_number">Version Number</string>
+    <string name="build_status">Build Status</string>
+    <string name="maintainer_name">Maintainer Name</string>
+    <string name="host_name">Build Host</string>
+    <string name="build_type">Build Type</string>
+    <string name="build_date">Build Date</string>
+    <string name="colt_title">ColtOS Elements</string>
+
 </resources>
 
 
