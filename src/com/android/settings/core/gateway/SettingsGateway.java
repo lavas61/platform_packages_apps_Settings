@@ -145,6 +145,7 @@ import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.colt.settings.ColtSettings;
 import com.colt.settings.ColtSettingsLayout;
+import com.colt.settings.fragments.OmniJawsSettings;
 
 public class SettingsGateway {
 
@@ -278,6 +279,7 @@ public class SettingsGateway {
             FlingSettingsActivity.class.getName(),
             PulseSettingsActivity.class.getName(),
             RunningServices.class.getName()
+	    OmniJawsSettings.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
