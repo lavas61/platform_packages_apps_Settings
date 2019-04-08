@@ -278,7 +278,7 @@ public class SettingsGateway {
             SmartbarSettingsActivity.class.getName(),
             FlingSettingsActivity.class.getName(),
             PulseSettingsActivity.class.getName(),
-            RunningServices.class.getName()
+            RunningServices.class.getName(),
 	    OmniJawsSettings.class.getName(),
     };
 
